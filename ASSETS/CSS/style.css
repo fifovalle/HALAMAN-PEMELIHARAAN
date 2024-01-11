@@ -12,10 +12,57 @@
     background-position: center;
     background-size: cover;
     padding: 0 8%;
+    position: relative;
 }
 
 .logo {
     width: 80px;
-    padding: 1px 0;
+    padding: 1px 0 20px;
     cursor: pointer;
+}
+
+.konten {
+    top: 50%;
+    position: absolute;
+    transform: translateY(-50%);
+    color: #fff;
+}
+
+.konten h1 {
+    font-size: 64px;
+    font-weight: 600;
+}
+
+.konten h1 span {
+    color: #ff3753;
+}
+
+.konten button {
+    background: transparent;
+    border: 2px solid #fff;
+    outline: none;
+    padding: 12px 25px;
+    color: #fff;
+    display: flex;
+    align-items: center;
+    margin-top: 30px;
+    cursor: pointer;
+}
+
+.konten button img {
+    width: 15px;
+    margin-left: 10px;
+}
+
+.waktu-peluncuran {
+    display: flex;
+}
+
+.waktu-peluncuran div {
+    flex-basis: 100px;
+}
+
+.waktu-peluncuran div p {
+    font-size: 60px;
+    margin-bottom: -5px;
 }
