@@ -66,3 +66,23 @@
     font-size: 60px;
     margin-bottom: -5px;
 }
+
+.roket {
+    width: 250px;
+    position: absolute;
+    right: 10%;
+    bottom: 0;
+    animation: roket 4s linear infinite;
+}
+
+@keyframes roket {
+    0% {
+        bottom: 0;
+        opacity: 0;
+    }
+
+    100% {
+        bottom: 105%;
+        opacity: 1;
+    }
+}
