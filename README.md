@@ -19,7 +19,7 @@ Terima kasih telah mengunjungi halaman ini untuk melihat preview proyek terbaru 
 
 ## 📷 Preview Halaman
 
-Berikut adalah beberapa cuplikan tampilan halaman website yang sedang dalam tahap "Coming Soon":
+Berikut adalah beberapa cuplikan tampilan halaman website :
 
 ![Screenshot 2024-01-12 082613](https://github.com/fifovalle/COMMING-SOON-PAGE/assets/90078068/190639b9-53a6-42a7-ad7c-e48f73afb65a)
 
@@ -33,7 +33,12 @@ Kontribusi dan umpan balik dari komunitas sangat dihargai. Jika Anda ingin berko
 
 ### 👨‍💻 Cara Menjalankan Proyek
 
-1. Clone repositori ini.
+1. Clone repositori ini ke direktori web server Anda.
+
+   ```
+   git clone https://github.com/fifovalle/COMMING-SOON-PAGE.git
+   ```
+   
 2. Buka file `index.html` di peramban web Anda.
 
 Terima kasih atas antusiasme Anda menantikan kehadiran website ini! 🙌
