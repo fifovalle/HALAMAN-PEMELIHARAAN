@@ -14,8 +14,9 @@ Terima kasih telah mengunjungi halaman ini untuk melihat preview proyek terbaru 
 
 ## 🛠️ Teknologi yang Digunakan
 
-- **Bahasa Pemrograman:** HTML, CSS, JavaScript.
+- **Bahasa Pemrograman:** JavaScript.
 - **Alat Pengembangan:** Visual Studio Code, Git.
+- **Pengembangan Web:** HTML, CSS
 
 ## 📷 Preview Halaman
 
