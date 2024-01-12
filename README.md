@@ -13,7 +13,6 @@ Jelajahi karya terbaru dan keterampilan saya dalam dunia pengembangan perangkat 
 
 Berikut adalah beberapa cuplikan tampilan halaman website yang sedang dalam tahap "Comming Soon":
 
-[![Video Thumbnail](https://github.com/fifovalle/COMMING-SOON-PAGE/assets/90078068/190639b9-53a6-42a7-ad7c-e48f73afb65a)](https://github.com/fifovalle/COMMING-SOON-PAGE/assets/90078068/5ae055eb-6358-4e3b-93fc-5aa13dc98eff)
 ![Screenshot 2024-01-12 082613](https://github.com/fifovalle/COMMING-SOON-PAGE/assets/90078068/190639b9-53a6-42a7-ad7c-e48f73afb65a)
 
 ## 📬 Kontak
