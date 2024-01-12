@@ -33,8 +33,15 @@
     font-weight: 600;
 }
 
+.konten .status {
+    font-size: 20px;
+    font-weight: bold;
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.8);
+}
+
+
 .konten h1 span {
-    color: #ff3753;
+    color: #b10494;
 }
 
 .konten button {
@@ -47,11 +54,16 @@
     align-items: center;
     margin-top: 30px;
     cursor: pointer;
+    transition: transform 0.3s cubic-bezier(0.68, -0.55, 0.27, 1.55);
 }
 
 .konten button img {
     width: 15px;
     margin-left: 10px;
+}
+
+.konten button:hover {
+    transform: scale(1.1);
 }
 
 .waktu-peluncuran {
