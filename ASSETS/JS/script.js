@@ -1,4 +1,4 @@
-let menghitungMundurTanggal = new Date("Januari 20, 2024 00:00:00").getTime();
+let menghitungMundurTanggal = new Date("February 20, 2024 00:00:00").getTime();
 let waktu = setInterval(function () {
   let sekarang = new Date().getTime();
   let sisaWaktu = menghitungMundurTanggal - sekarang;
