@@ -1,4 +1,4 @@
-**Selamat Datang di Halaman "Coming Soon" Website! 🚀**
+**Selamat Datang di Halaman "Halaman Pemeliharaan" Website! 🚀**
 
 Terima kasih telah mengunjungi halaman ini untuk melihat preview proyek terbaru saya dalam dunia pengembangan perangkat lunak. Saya sangat antusias untuk membagikan hasil kerja dan keterampilan saya dengan Anda.
 
@@ -37,7 +37,7 @@ Kontribusi dan umpan balik dari komunitas sangat dihargai. Jika Anda ingin berko
 1. Clone repositori ini ke direktori web server Anda.
 
    ```
-   git clone https://github.com/fifovalle/COMMING-SOON-PAGE.git
+   git clone https://github.com/fifovalle/HALAMAN-PEMELIHARAAN.git
    ```
    
 2. Buka file `index.html` di peramban web Anda.
