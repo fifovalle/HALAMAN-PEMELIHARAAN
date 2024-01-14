@@ -20,13 +20,13 @@ Terima kasih telah mengunjungi halaman ini untuk melihat preview proyek terbaru 
 
 ## 📷 Preview Halaman
 
-Berikut adalah beberapa cuplikan tampilan halaman website :
+Berikut adalah tampilan halaman website :
 
 ![Screenshot 2024-01-12 082613](https://github.com/fifovalle/COMMING-SOON-PAGE/assets/90078068/190639b9-53a6-42a7-ad7c-e48f73afb65a)
 
 ## 📬 Kontak
 
-Ingin berkolaborasi atau mendiskusikan proyek? Jangan ragu untuk menghubungi saya melalui email di [fifanaufal10@gmail.com](mailto:fifanaufal10@gmail.com) atau terhubung dengan saya di [WhatsApp](https://wa.me/+6281223652490).
+Ingin berkolaborasi atau mendiskusikan proyek? Jangan ragu untuk menghubungi saya melalui email di [fifanaufal10@gmail.com](mailto:fifanaufal10@gmail.com) atau terhubung dengan saya di [WhatsApp](https://wa.me/+6282318334287).
 
 ### 🙏 Kontribusi
 
